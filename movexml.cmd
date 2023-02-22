@@ -1,0 +1,1 @@
+python .\tool\movexml.py tr train cut

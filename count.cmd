@@ -1,0 +1,1 @@
+python  .\tool\read.py
